@@ -1,6 +1,6 @@
 # Assignment_KNN
 
-Prepare a model for glass classification using KNN
+Prepare a model for glass classification using KNN(glass)
 
 Data Description:
 
@@ -31,6 +31,8 @@ Type: Type of glass: (class attribute)
  6 --tableware
  7 --headlamps
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+Implement a KNN model to classify the animals in to categorie(zoo)
 
 
 
